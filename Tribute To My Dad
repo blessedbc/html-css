@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Tribute Page</title>
+    <style>
+        #image {
+            display: block;
+            max-width: 100%;
+            height: auto;
+            margin: 0 auto;
+        }
+    </style>
+</head>
+<body>
+    <main id="main">
+        <h1 id="title">My Tribute to Ogbuehi Silas Nwaka </h1>
+        <div id="img-div">
+            <img id="image" src="img_E6379" alt="a man with a good heart">
+            <figcaption id="img-caption">Ogbuehi Silas Nwaka known for his problem solving skills</figcaption>
+        </div>
+        <div id="tribute-info">
+            <p>Ogbuehi Silas Nwaka is a man of few words but full of love for family, he was married to Nneoma Ngozi Nwaka with seven children and died in 2008</p>
+        </div>
+           <a id="tribute-link" href="https://example.com" target="_blank">Learn more</a>
+   <link rel="stylesheet"  href="styles.css">      
+    </main>
+</body>
+</html>
